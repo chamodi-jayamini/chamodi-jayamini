@@ -13,10 +13,11 @@
 </p>
 ### 👨‍💻 About Me
 
-🌟 I'm a Full Stack Developer who loves building clean, scalable, and user-friendly web applications.
-🐘 I specialize in Laravel for backend development, paired with modern frontend tools.
-💡 I enjoy turning ideas into working products — from database design to polished UI.
-📚 Always learning new tools and best practices to write better code.
+🌟 I’m a passionate Full Stack Developer who loves crafting scalable and interactive web applications.
+💡 I enjoy bridging software engineering, cloud platforms, and machine learning to deliver modern solutions.
+⚙️ I’m currently focused on Next.js, TypeScript, and Google Cloud Platform (GCP).
+📈 Always exploring DevOps, CI/CD pipelines, and AI-driven applications.
+
 ---
 
 ### 🧠 Currently Learning
