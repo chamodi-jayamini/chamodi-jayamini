@@ -15,9 +15,9 @@
 ### 👨‍💻 About Me
 
 🌟 I’m a passionate Full Stack Developer who loves crafting scalable and interactive web applications.
-💡 I enjoy bridging software engineering, cloud platforms, and machine learning to deliver modern solutions.
-⚙️ I’m currently focused on Next.js, TypeScript, and Google Cloud Platform (GCP).
-📈 Always exploring DevOps, CI/CD pipelines, and AI-driven applications.
+                💡 I enjoy bridging software engineering, cloud platforms, and machine learning to deliver modern solutions.
+                ⚙️ I’m currently focused on Next.js, TypeScript, and Google Cloud Platform (GCP).
+                📈 Always exploring DevOps, CI/CD pipelines, and AI-driven applications.
 
 ---
 
