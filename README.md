@@ -1,27 +1,27 @@
-#                                     <!--
-✨ GitHub Profile README ✨
-Author: Chamodi Jayamini
-GitHub: https://github.com/chamodi-jayamini
--->
-
+                                
 <h1 align="center">👋 Hi, I'm Chamodi Jayamini</h1>
-<h3 align="center">💻 Full Stack Software Engineer | ☁️ Cloud & ML Enthusiast | 🚀 Tech Innovator</h3>
-
----
-
+<p align="center">
+  💻 Full Stack Developer | 🐘 Laravel Enthusiast | 🚀 Building Clean, Scalable Web Apps
+</p>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+</p>
 ### 👨‍💻 About Me
 
-🌟 I’m a passionate **Full Stack Developer** who loves crafting scalable and interactive web applications.  
-💡 I enjoy bridging **software engineering**, **cloud platforms**, and **machine learning** to deliver modern solutions.  
-⚙️ I’m currently focused on **Next.js**, **TypeScript**, and **Google Cloud Platform (GCP)**.  
-📈 Always exploring **DevOps**, **CI/CD pipelines**, and **AI-driven applications**.  
-
+🌟 I'm a Full Stack Developer who loves building clean, scalable, and user-friendly web applications.
+🐘 I specialize in Laravel for backend development, paired with modern frontend tools.
+💡 I enjoy turning ideas into working products — from database design to polished UI.
+📚 Always learning new tools and best practices to write better code.
 ---
 
 ### 🧠 Currently Learning
-- 🧩 **Cloud Platforms** – AWS | GCP | Firebase  
-- ⚙️ **Infrastructure as Code** – Terraform | Kubernetes (Basics)  
-- 🔐 **Backend Development** – Nest.js | API Security | Microservices  
+- 🧩 **Cloud Platforms** – AWS | Azure
+- 🔐 **Backend Development** – Laraval | API Security | Microservices  
 - 🧮 **Model Integration** – Flask | RESTful ML APIs  
 
 ---
@@ -63,22 +63,22 @@ GitHub: https://github.com/chamodi-jayamini
 
 ### 🎓 Education
 
-🎓 **B.Sc. (Hons) in Information Technology (Software Engineering)**  
+🎓 **B.Sc. (Hons) in Information Technology (Information Technology)**  
 📍 *Sri Lanka Institute of Information Technology (SLIIT)*  
 🕒 *2021 June
 
 ---
 
 ### 🏅 Certifications
-- 🐍 Python & Django Full Stack Web Developer Bootcamp – *Udemy*  
+- 🐍 Python & Django Full Stack Web Developer Bootcamp – *University of Moratuwa*  
 - 🌐 Networking Essentials & Python Essentials – *Cisco Networking Academy*  
-- ☕ Basic Java & English Language Certificates – *IBA Campus*  
-
----
 
 
 
----
+
+
+
+
 
 
 
