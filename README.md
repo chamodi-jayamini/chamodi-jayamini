@@ -73,6 +73,26 @@
 - 🐍 Python & Django Full Stack Web Developer Bootcamp – *University of Moratuwa*  
 - 🌐 Networking Essentials & Python Essentials – *Cisco Networking Academy*  
 
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chamodi-jayamini&show_icons=true&theme=default" alt="Chamodi's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamodi-jayamini" alt="Chamodi's streak" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodi-jayamini&layout=compact" alt="Top languages" height="165"/>
+</p>
+
+📫 Let's Connect
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
+<p align="center">
+  <i>🧠 "Code smart, automate everything, and keep learning — innovation begins with curiosity." 🚀</i>
+</p>
 
 
 
@@ -81,5 +101,4 @@
 
 
 
-
-> 🧠 *“Code smart, automate everything, and keep learning — innovation begins with curiosity.”* 🚀
+>
