@@ -11,11 +11,15 @@
   <a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
 </p>
+
 ### 👨‍💻 About Me
 
 🌟 I’m a passionate Full Stack Developer who loves crafting scalable and interactive web applications.
+
 💡 I enjoy bridging software engineering, cloud platforms, and machine learning to deliver modern solutions.
+
 ⚙️ I’m currently focused on Next.js, TypeScript, and Google Cloud Platform (GCP).
+
 📈 Always exploring DevOps, CI/CD pipelines, and AI-driven applications.
 
 ---
