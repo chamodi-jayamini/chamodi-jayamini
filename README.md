@@ -78,13 +78,15 @@ GitHub: https://github.com/chamodi-jayamini
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chamodi-jayamini&show_icons=true&theme=default" alt="Chamodi's GitHub stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=chamodi-jayamini" alt="Chamodi's streak" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodi-jayamini&layout=compact" alt="Top languages" height="165"/>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chamodi-jayamini&show_icons=true&theme=github_dark"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chamodi-jayamini&theme=github-dark-blue"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodi-jayamini&layout=compact&theme=github_dark"/>
+
+</div>
 
 ---
 
@@ -99,4 +101,4 @@ GitHub: https://github.com/chamodi-jayamini
 
 ---
 
-> 🧠 *“Code smart, automate everything, and keep learning — innovation begins with curiosity.”* 🚀
+> 🧠 "Learning, building, and innovating one project at a time."🚀
