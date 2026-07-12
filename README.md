@@ -80,7 +80,7 @@ GitHub: https://github.com/chamodi-jayamini
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chamodi-jayamini&show_icons=true&theme=default" alt="Chamodi's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamodi-jayamini" alt="Chamodi's streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=chamodi-jayamini" alt="Chamodi's streak" height="165"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodi-jayamini&layout=compact" alt="Top languages" height="165"/>
